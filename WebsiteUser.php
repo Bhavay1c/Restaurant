@@ -4,11 +4,11 @@ class WebsiteUser {
     /* Host address for the database */
     protected static $DB_HOST = "127.0.0.1";
     /* Database username */
-    protected static $DB_USERNAME = "ukgvehvrmw4he";
+    protected static $DB_USERNAME = "username";
     /* Database password */
-    protected static $DB_PASSWORD = "Bhavay@123";
+    protected static $DB_PASSWORD = "userpassword";
     /* Name of database */
-    protected static $DB_DATABASE = "dberbcw9dgkvwt";
+    protected static $DB_DATABASE = "d=userdatabse";
 
     private $mysqli;
     private $dbError = false;
