@@ -18,7 +18,7 @@ include 'class_lib.php';
                         <hr>
                         <h2>Private Dining</h2>
                         <img src="images/dining_room_sm.jpg" width="228" alt="Dining Room" title="The WP Eatery Dining Room">
-                        <p>Call us to find out more about our private dinning options.</p>
+                        <p>Call us to find out more about our private dinning options. </p>
                 </aside>
                 <div class="main">
                     <h1>Welcome to WP Eatery!</h1>
